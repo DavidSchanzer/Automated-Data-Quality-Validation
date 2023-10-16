@@ -1,4 +1,4 @@
-# Automated-Data-Quality-Validation
+# Automated Data Quality Validation
 A Python-based data quality classifier of newly-arriving tabular data files into "trusted" and "suspect" categories using Novelty Detection machine learning.
 
 Based on the work of Redyuk et al. (2021) and the GitHub repo [here](https://github.com/sergred/automating-data-quality-validation-data), this repo allows for the prototyping of this approach to automated data quality validation and the extension of this research by:
