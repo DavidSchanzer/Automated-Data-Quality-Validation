@@ -37,5 +37,5 @@ If a file receives a TN or FN result, the file is used to re-fit the model so th
 
 If a file receives a TP or FP result, the equivalent “clean” file is used to re-fit the model so that the data in the clean version of this file is included in the model, which therefore modifies its definition of “normal” data to include the latest “clean” data.
 
-_Redyuk, S., Kaoudi, Z., Markl, V., & Schelter, S. (2021, March 23-26). Automating data quality validation for dynamic data ingestion [Paper presentation]. 24th International Conference on Extending Database Technology, Nicosia, Cyprus.
-_
+*Redyuk, S., Kaoudi, Z., Markl, V., & Schelter, S. (2021, March 23-26). Automating data quality validation for dynamic data ingestion [Paper presentation]. 24th International Conference on Extending Database Technology, Nicosia, Cyprus.
+*
